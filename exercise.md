@@ -1,3 +1,3 @@
 # Welcome!
 
-## Secondh heading
+## Second heading
